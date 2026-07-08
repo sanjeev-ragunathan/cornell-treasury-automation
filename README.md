@@ -71,6 +71,10 @@ For detailed configuration, see the [technical documentation](https://github.com
 
 > For more information, checkout [limitations](https://github.com/sanjeev-ragunathan/cornell-treasury-automation/blob/main/docs/limitations.md) and [future plans](https://github.com/sanjeev-ragunathan/cornell-treasury-automation/blob/main/docs/future-plans.md).
 
+## Results
+
+Recovered **$100,000**. Deployed as a Calude code skill. 23 Departments identified and reached out to, 7 responded and 5 confirmed totaling to a recovery of **$100,000** in unidentified payments. Check out the [Article↗](https://innovationhub.ai.cornell.edu/articles/how-cornell-recovered-100000-in-unidentified-payments-with-ai/).
+
 ---
 
 ### The Team
